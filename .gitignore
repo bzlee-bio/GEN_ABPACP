@@ -1,0 +1,9 @@
+*.csv
+
+*.ipynb
+
+output_node/
+
+.ipynb_checkpoints
+
+__pycache__
